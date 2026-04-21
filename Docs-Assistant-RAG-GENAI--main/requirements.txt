@@ -1,0 +1,35 @@
+# Core backend
+fastapi
+uvicorn
+python-multipart
+
+# Frontend
+streamlit
+
+# Document extraction
+pdfplumber
+python-docx
+
+# OCR and image handling
+pytesseract
+Pillow
+opencv-python-headless
+numpy
+
+# LLM Providers
+google-genai
+groq>=0.4.0
+
+# Vector database and embeddings
+sentence-transformers>=2.2.0
+faiss-cpu
+
+# Database
+sqlalchemy>=2.0.0
+python-dotenv
+
+# Evaluation metrics
+scikit-learn>=1.3.0
+
+# Async support
+aiohttp>=3.9.0
